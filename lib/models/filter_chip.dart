@@ -4,8 +4,8 @@ class FilterChipData {
  FilterChipData(this.label, this.isSelected);
 }
 List<FilterChipData> categories = [
- FilterChipData("Rescued", false),
- FilterChipData("Pants", false),
- FilterChipData("Shoes", false),
- FilterChipData("Watchs", false)
+ FilterChipData("Cats", false),
+ FilterChipData("On sale", false),
+ FilterChipData("Adopted", false),
+ FilterChipData("Pets", false)
 ];
